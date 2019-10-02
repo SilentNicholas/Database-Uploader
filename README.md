@@ -4,7 +4,7 @@ Welcome to this easy, but very useful application. First of all, you have to clo
  - 'Upload to xlsx'(This button upload database table to your computer in compact xlsx format);
  - 'Upload to xls'(This button does the same as above but upload file in format xls);
  
- If you want to test the application you can ran 2 commands:
+ If you want to test the application you can run 2 commands:
  - php artisan migrate (to creating a table in the database);
  - php artisan db:seed (to fill the table with test data);
 
